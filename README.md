@@ -2,6 +2,9 @@
 
 This is a simple password generator application built using React and Vite. It allows users to generate random passwords with customizable length and options for including numbers and special characters.
 
+## Image
+![Image of password generator](public/screenshot.png)
+
 ## Features
 
 - Generates random passwords based on user-defined criteria.
