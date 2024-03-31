@@ -14,11 +14,11 @@ This is a simple password generator application built using React and Vite. It a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-vite-password-generator.git
+   git clone https://github.com/soubhagya2001/password-generator-react.git
 
 2. Navigate to the project directory:
     ```bash
-    cd react-vite-password-generator
+    cd password-generator-react
 
 3. Install dependencies:
     ```bash
